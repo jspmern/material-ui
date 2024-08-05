@@ -1,0 +1,10 @@
+==>
+for installation follow this link ⬇️
+https://mui.com/material-ui/getting-started/installation/
+
+ ============================typography======================
+check MultiTypoGraphy File
+ if you want to chek the default css for that one
+ theme ➡️ Default theme viewer ➡️ Expend All
+ follow link:-
+ https://mui.com/material-ui/customization/default-theme/
