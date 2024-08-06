@@ -14,7 +14,7 @@ import React from 'react'
   
 
 //    +++++++++++++++++++++++++++++gutterBottom+++++++++++++++++++++++++++++++++++++++
-//gutterBottom :- n Material-UI (MUI), the gutterBottom prop is used with the Typography component to add spacing below the text. When gutterBottom is set to true, the component automatically adds a bottom margin, typically equal to the spacing unit defined in the theme (often 0.35em or 16px, depending on the MUI version and theme settings). This helps in creating consistent spacing and alignment between elements on the page.
+//gutterBottom :- Material-UI (MUI), the gutterBottom prop is used with the Typography component to add spacing below the text. When gutterBottom is set to true, the component automatically adds a bottom margin, typically equal to the spacing unit defined in the theme (often 0.35em or 16px, depending on the MUI version and theme settings). This helps in creating consistent spacing and alignment between elements on the page.
 
 
 // ++++++++++++++++++++++++++++++++++component+++++++++++++++++++++++++++++++++++++
