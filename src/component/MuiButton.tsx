@@ -35,9 +35,7 @@ function MuiButton() {
     //this is for handling toggle value
     function handleToggle(event:React.MouseEvent<HTMLElement>,newFormate:[])
     {
-    //   setToggleButtonValue((pre)=>{
-    //     return [...pre,...newFormate]
-    //   })
+
       console.log(newFormate)
     }
    

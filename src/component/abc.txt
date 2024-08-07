@@ -1,0 +1,7 @@
+The Blood Bank Project manages blood donation, storage, and distribution by blood group. It involves Donors, Organizations, and Hospitals.
+Donor Role:
+Donors register, provide blood group info, schedule donations, and view history.
+Organization Role:
+Organizations manage real-time blood inventory, donor and hospital profiles, and generate reports for efficiency.  
+Hospital Role:
+Hospitals request specific blood types for patients.
